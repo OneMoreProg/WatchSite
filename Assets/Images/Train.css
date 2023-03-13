@@ -1,0 +1,9 @@
+.intro{
+    width: 100%; /* Ширина изображения */
+    height: 100vh; /* Высота изображения */
+    background: url(Image2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* Прописываем путь к файлу */
+    /* Позиция картинкипо центру */
+  }
